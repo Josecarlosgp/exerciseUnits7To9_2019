@@ -1,4 +1,5 @@
-// Jose Carlos GIner Poveda
+// Jose Carlos Giner Poveda
+// CheckFinalMark
 #include <iostream>
 using namespace std;
 int main()
